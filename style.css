@@ -1,5 +1,23 @@
+*{
+  margin:0;
+  padding:0;
+}
 h1 {
-  font-size: 18px;
+  font-size: 36px;
   color: green;
   font-style: Arial;
+  border: 5px solid blue;
+  border-radius: 10px;
+  }
+
+.food{
+  font-size: 18px;
+  color: rgb(255, 0, 10, .07);
+  font-style: italic, sans-serif;
+  border: 2px solid #FFF;
+  height: 100;
+  border-radius: 100%;
+  margin: 10px;
+  padding: 10px, 5px;
+  
   }
