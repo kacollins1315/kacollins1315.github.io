@@ -14,8 +14,8 @@ h1 {
 
 .monologue{
   font-size: 18px;
-  color: #42f4e5;
-  font-style: italic helvetica;
+  color: #e26c04;
+  font-style:  helvetica;
 
 
   }
@@ -24,11 +24,13 @@ h1 {
 
   }
   p {
-    height: 200%;
-    width:150%;
+    height: 50%;
+    width:75%;
     border: 2px solid black;
-    border-radius: 100%;
+    border-radius: 20px;
     margin: 10px;
     padding: 10px, 5px;
+    overflow: scroll;
+
 
   }
