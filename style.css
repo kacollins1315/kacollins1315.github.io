@@ -15,8 +15,8 @@ h1 {
   border-height:20px;
   background-image: url("https://s3.amazonaws.com/cinna/cinnalayingdown.jpg");
   background-size:cover;
-  height:200px;
-  width:300px;
+  height:300%;
+  width:400%;
   }
 
 .monologue{
@@ -24,6 +24,7 @@ h1 {
   color: #e26c04;
   font-style:  helvetica;
   }
+
   li{
     display:inline-block;
     font-size: 25px;
