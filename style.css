@@ -26,12 +26,11 @@ h1 {
     display:inline-block;
     font-size: 25px;
     font-style: helvetica;
-    height:30px;
-    width:50px;
     padding:5px
     margin:10px;
     background-image:
     -webkit-linear-gradient(#666CCC, #BC1324);
+    background-size:cover
 
 
 
