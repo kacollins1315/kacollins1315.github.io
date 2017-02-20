@@ -4,6 +4,13 @@
   box-sizing:border-box;
 }
 
+body{
+  height:100%;
+  width:100%;
+  text-align:center;
+
+}
+
 
 h1 {
   font-size: 84px;
@@ -19,6 +26,12 @@ h1 {
   width:400%;
   }
 
+h2{
+  font-size: 70px;
+  color: #0e4f59;
+  font-style: "Avant garde";
+  }
+
 .monologue{
   font-size: 18px;
   color: #e26c04;
@@ -26,7 +39,7 @@ h1 {
   }
 
   li{
-    display:inline-block;
+    display:block;
     font-size: 25px;
     font-style: helvetica;
     padding:5px
@@ -34,6 +47,7 @@ h1 {
     background-image:
     -webkit-linear-gradient(#666CCC, #BC1324);
     background-size:cover
+    position:left
   }
   p {
     height: 50%;
@@ -43,4 +57,9 @@ h1 {
     margin: 10px;
     padding: 20px 20px;
     overflow: scroll;
+    justify-content:center;
   }
+<! makes the button go up and down!>
+  .contact-btn a:active {
+  top:2px;
+}
