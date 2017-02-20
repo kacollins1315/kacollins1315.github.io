@@ -49,9 +49,13 @@ h2{
     background-size:cover
     position:left
   }
-  p {
-    overflow: scroll;
-    justify-content:center;
+  .jumbotron {
+    display: flex;
+    align-items: center;
+    background-size: cover;
+    color: #ffffff;
+    height: 500px;
+    text-shadow: 0.25px 0.25px 0.25px #000000;
     background-image: url("https://s3.amazonaws.com/cinna/cinnalayingdown.jpg");
   }
 <! makes the button go up and down!>
