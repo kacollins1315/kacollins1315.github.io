@@ -50,14 +50,9 @@ h2{
     position:left
   }
   p {
-    height: 50%;
-    width:75%;
-    border: 2px solid black;
-    border-radius: 20px;
-    margin: 10px;
-    padding: 20px 20px;
     overflow: scroll;
     justify-content:center;
+    background-image: url("https://s3.amazonaws.com/cinna/cinnalayingdown.jpg");
   }
 <! makes the button go up and down!>
   .contact-btn a:active {
