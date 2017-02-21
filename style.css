@@ -23,7 +23,12 @@ body{
   height:90px;
   width:180px;
   }
-
+.row {
+  display: inline-block;
+  fontsize: 20px;
+  font-style: Helvetica;
+  color:black;
+}
 h2{
   font-size: 70px;
   color: #0e4f59;
@@ -36,7 +41,7 @@ h2{
   font-style:  helvetica;
   }
 
-  .row{
+  li{
     display:inline-block;
     font-size: 25px;
     font-style: helvetica;
