@@ -21,9 +21,10 @@ body{
   border-width: 10px;
   border-height:20px;
   height:90px;
-  width:180px;
+  width:250px;
   }
-.row {
+
+ header .row {
   display: inline-block;
   fontsize: 20px;
   font-style: Helvetica;
@@ -52,6 +53,7 @@ h2{
     background-size:cover
     position:left
   }
+
   .jumbotron {
     display: flex;
     align-items: center;
